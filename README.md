@@ -72,3 +72,13 @@ No nível Mestre, o desafio se intensifica com a adição de funcionalidades ava
 Boa sorte no desenvolvimento deste desafio e aproveite para aprender e se divertir enquanto progride pelos níveis!
 
 Equipe de Ensino - MateCheck
+
+## 🏅 Nível Aventureiro
+
+### criei o menu com swith e condição if else if, a 7 atributos, 1 ao 7, população, area, pontos turisticos, pib, densidade demografica, pib per capita, super poder. basta digitar o atributo que deseja comparar após inserir os dados da sua carta. após isso o programa mostrara o pais de cada carta, o valor daquele atributo de cada carta, quem venceu ou empatou.
+
+passo 1 cadastre suas duas cartas
+passo 2 escolha o atributo que deseja comparar de 1 a 7
+passo 3 veja o resultado.
+
+aluno - Daniel Pereira Raimundo
