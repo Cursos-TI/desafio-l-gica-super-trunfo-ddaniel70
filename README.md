@@ -82,3 +82,36 @@ passo 2 escolha o atributo que deseja comparar de 1 a 7
 passo 3 veja o resultado.
 
 aluno - Daniel Pereira Raimundo
+
+## 🏅 Nível mestre
+implementei o mecanismo de comparar dois atributos de uma vez, usando o menu switch com operador ternario e if else, exibir o pais de cada carta, o valor de cada atributo escolhido de cada carta, e o valor da soma desses atributos e a carta vencedora.
+
+passo a passo de compilar o código; so altere os nomes do programa de acordo de como voce salvou
+
+use o compilador de c, O GCC,
+
+verifique se está no diretório correto 
+
+verifica se tem as bilbiotecas instaladas
+
+use esse comando para compilar o programa 
+
+gcc nome_do_arquivo.c -o nome_do_programa
+
+use esse comando para executar o programa
+
+No Linux/macOS:
+
+./nome_do_programa
+
+No Windows (CMD ou PowerShell):
+
+nome_do_programa.exe
+
+como jogar; 
+
+cadastre as cartas
+escolha os atributos a serem comparados
+veja o resultado se divirta
+
+aluno -- Daniel Pereira Raimundo
